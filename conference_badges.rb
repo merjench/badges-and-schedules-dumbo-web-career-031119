@@ -7,3 +7,4 @@ def batch_badge_creator (guests)
   guest.map do |guest|
     "Hello, my name is #{guest}."
   end
+end 
